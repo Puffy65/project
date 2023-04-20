@@ -1,0 +1,25 @@
+body{
+    background: rgb(197, 190, 178);
+    font-size: 1.25rem;
+}
+
+h1,h2{
+   text-align: center;
+   margin: 1cm;
+}
+
+.pin{
+   float: left;
+   margin: 0 1em 1em 0;
+}
+
+a{
+   color:black;
+}
+
+h4{
+   margin: 1rem 4rem 3rem 1rem;
+}
+.program{
+   margin: 1.5rem 1.5rem 1.5rem 1.5rem;
+}
